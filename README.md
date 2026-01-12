@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my journey as an Electronics &
 
 ## 🚀 Live Demo
 
-Visit: [rifahsanjida.vercel.app](https://rifahsanjida.vercel.app)
+Visit: [[rifahsanjida.vercel.app](https://rifahsanjida.vercel.app](https://rifah-portfilio.vercel.app/))
 
 ## ✨ Features
 
@@ -90,8 +90,4 @@ vercel --prod
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🙏 Acknowledgments
 
-- Design inspiration from modern portfolio websites
-- Icons by [Lucide](https://lucide.dev)
-- UI components from [Shadcn/ui](https://ui.shadcn.com)
