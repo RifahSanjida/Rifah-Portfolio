@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my journey as an Electronics &
 
 ## 🚀 Live Demo
 
-Visit: [[rifahsanjida.vercel.app](https://rifahsanjida.vercel.app](https://rifah-portfilio.vercel.app/))
+Visit: https://rifah-portfilio.vercel.app/
 
 ## ✨ Features
 
